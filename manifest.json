@@ -1,0 +1,18 @@
+{
+   "author": "kaleem ullah khan",
+   "background": {
+      "scripts": [ "bg.js" ]
+   },
+   "browser_action": {
+   },
+   "description": "Get notified of large volume & price actions during a specified time Interval",
+   "icons": {
+      "48": "alarm.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAixKxYMO1diTH4bgIfdUP2MQS/jKHZLEXKUoUb2k57KzFoHn3jmwZ4oMuUkcORYotZeNI+rgbIZdG0Xbma/T86bqAXwQanRMVF9tF02n3oxcnt5u94sB4pHN6fdgPDKJoCv4HPJED3Lsck09fuuKAuZ9L8qxcqG0G81Eu5nUJfFCF/Dg5AEOGT8it8Jc3T+SWAwDcu3CP1KkUVBLlltFbFXqnqKhzHA3Z/3rXNooSrz90XhAcYuC1n2YWYLpMM7PA8ZH9NsCCD1nyH62G9sT6cOD9djWtd9NzEdFIg18LqqVqQHrAnr5dBCP75XKHuGJbLz/XMrdjvgJ5LJt2IoYEVwIDAQAB",
+   "manifest_version": 2,
+   "name": "CoinDetector Crypto price and volume scanner",
+   "permissions": [ "https://api.binance.com/" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3"
+}
